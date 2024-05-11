@@ -1,13 +1,13 @@
-package cn.shithub.sephiroth
+package cn.shithub
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class SephirothApplicationTests {
+class Test {
 
-	@Test
-	fun contextLoads() {
-	}
+    @Test
+    fun contextLoads() {
+    }
 
 }
