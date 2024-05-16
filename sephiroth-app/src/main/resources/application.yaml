@@ -1,0 +1,8 @@
+server:
+  port: 9321
+  servlet:
+    context-path: /s
+
+spring:
+  application:
+    name: sephiroth-kt
